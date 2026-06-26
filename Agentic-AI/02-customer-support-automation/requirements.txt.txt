@@ -1,0 +1,16 @@
+langgraph
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+
+langchain-openai
+python-dotenv
+
+pydantic
+
+sqlite-utils

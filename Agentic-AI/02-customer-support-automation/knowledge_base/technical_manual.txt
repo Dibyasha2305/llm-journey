@@ -1,0 +1,6 @@
+ABC Technologies Technical Manual
+
+- Reset your password using the Forgot Password option.
+- Clear browser cache if the application behaves unexpectedly.
+- Application crashes may occur due to unsupported file formats.
+- Contact Technical Support if the issue continues.
